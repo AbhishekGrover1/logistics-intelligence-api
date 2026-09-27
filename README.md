@@ -2,12 +2,12 @@
 
 Predictive routing and delivery time estimation over supply chain logistics data, served through a FastAPI application. The core engine utilizes an XGBoost regressor for dynamic ETA prediction with a fallback heuristic network graph, ensuring a robust response even for unmapped or entirely new delivery routes.
 
-[![Live App](https://img.shields.io/badge/Live-App-2EA043?style=flat-square)](https://logistic-intelligence.onrender.com)
+
+[![Live App](https://img.shields.io/badge/Live-App-2EA043?style=flat-square)](https://logistics-intelligence-api-1.onrender.com)
 ![Python](https://img.shields.io/badge/python-3.11-3776AB?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/fastapi-0.109-009688?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/xgboost-2.0-1785e6?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square)
-
 ## *How prediction works*
 
 ```mermaid
