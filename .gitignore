@@ -1,0 +1,13 @@
+# Environments
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data (Keep out of source control to save space and ensure privacy)
+data/
+
+# OS Files
+.DS_Store
